@@ -1,0 +1,16 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "Centerfield\\CoffeeShopApi.Model\\",
+            "color": "foldercolorizer.Gold"
+        },
+        {
+            "folderPath": "Centerfield\\CoffeeShopApi\\",
+            "color": "foldercolorizer.LimeGreen"
+        },
+        {
+            "folderPath": "Centerfield\\CoffeeShopApi.Shared\\",
+            "color": "foldercolorizer.Coral"
+        }
+    ]
+}
